@@ -21,7 +21,7 @@
                 "muzeWebSite": "http://www.gaziantepturizm.gov.tr/TR,52334/gaziantep-arkeoloji-muzesi.html",
                 "sehir": "Gaziantep",
                 "ilce": "Şehitkamil",
-                "muzekart":"var","bresim": "https://i0.wp.com/kulturelcisi.com/hawizars/2020/05/gaziantep-arkeoloji-m%C3%BCzesi.jpg?fit=768%2C407&ssl=1"
+                "catagory": " " ,  "muzekart":"var","bresim": "https://i0.wp.com/kulturelcisi.com/hawizars/2020/05/gaziantep-arkeoloji-m%C3%BCzesi.jpg?fit=768%2C407&ssl=1"
             },
             {
                 "muzeAd": "İstanbul Arkeoloji Müzesi",
@@ -40,7 +40,7 @@
                 "muzeWebSite": "www.istanbularkeoloji.gov.tr",
                 "sehir": "İstanbul",
                 "ilce": "Fatih",
-                "muzekart":"var","bresim": "https://muze.gov.tr/s3/SectionPicture/SP_e75c08c5-32be-419b-9e5d-fcce4b6fdd72.jpg"
+                "catagory": " " ,  "muzekart":"var","bresim": "https://muze.gov.tr/s3/SectionPicture/SP_e75c08c5-32be-419b-9e5d-fcce4b6fdd72.jpg"
             },
             {
                 "muzeAd": "Anadolu Medeniyetleri Müzesi",
@@ -59,7 +59,7 @@
                 "muzeWebSite": "http://www.anadolumedeniyetlerimuzesi.gov.tr",
                 "sehir": "Ankara",
                 "ilce": "Altındağ",
-                "muzekart":"yok","bresim": "https://www.adimadimistanbul.com/images/turlar/turlar-36-157-27-45-online-anadolu-medeniyetleri-muzesi-100-yasinda.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://www.adimadimistanbul.com/images/turlar/turlar-36-157-27-45-online-anadolu-medeniyetleri-muzesi-100-yasinda.jpg"
             },
             {
                 "muzeAd": "Topkapı Sarayı Müzesi",
@@ -78,7 +78,7 @@
                 "muzeWebSite": "www.topkapisarayi.gov.tr",
                 "sehir": "İstanbul",
                 "ilce": "Fatih",
-                "muzekart":"yok","bresim": "https://gezilmesigerekenyerler.com/wp-content/uploads/2014/04/topkapi-sarayi-011-e1461429978273.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://gezilmesigerekenyerler.com/wp-content/uploads/2014/04/topkapi-sarayi-011-e1461429978273.jpg"
             },
             {
                 "muzeAd": "Baksı Müzesi",
@@ -97,7 +97,7 @@
                 "muzeWebSite": "http://baksi.org",
                 "sehir": "Bayburt",
                 "ilce": "Gökçebey",
-                "muzekart":"yok","bresim": "https://i4.hurimg.com/i/hurriyet/75/750x422/57357efb18c7732e687f8df1.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://i4.hurimg.com/i/hurriyet/75/750x422/57357efb18c7732e687f8df1.jpg"
             },
             {
                 "muzeAd": "Çorum Müzesi",
@@ -116,7 +116,7 @@
                 "muzeWebSite": "Web adresi bulunamadı",
                 "sehir": "Çorum",
                 "ilce": "Eceabat",
-                "muzekart":"var","bresim": "https://corum.ktb.gov.tr/Resim/166464,003-corum-muzesid-10jpg.png?0"
+                "catagory": " " ,  "muzekart":"var","bresim": "https://corum.ktb.gov.tr/Resim/166464,003-corum-muzesid-10jpg.png?0"
             },
             {
                 "muzeAd": "Ayasofya Camii",
@@ -135,7 +135,7 @@
                 "muzeWebSite": "www.ayasofyamuzesi.gov.tr",
                 "sehir": "İstanbul",
                 "ilce": "Fatih",
-                "muzekart":"yok","bresim": "https://muzeler.org/images/google-place-images/ayasofya-muzesi.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://muzeler.org/images/google-place-images/ayasofya-muzesi.jpg"
             },
             {
                 "muzeAd": "İstanbul Modern Sanat Müzesi",
@@ -154,7 +154,7 @@
                 "muzeWebSite": "www.istanbulmodern.org",
                 "sehir": "İstanbul",
                 "ilce": "Beyoğlu",
-                "muzekart":"yok","bresim": "https://istanbeautiful.com/tr/wp-content/uploads/istanbul-modern-museum2.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://istanbeautiful.com/tr/wp-content/uploads/istanbul-modern-museum2.jpg"
             },
             {
                 "muzeAd": "Bursa Kent Müzesi",
@@ -173,7 +173,7 @@
                 "muzeWebSite": "http://www.bursakentmuzesi.com",
                 "sehir": "Bursa",
                 "ilce": "Osmangazi",
-                "muzekart":"yok","bresim": "https://www.bursamuze.com/uploads/2017/10/kent-muzesi-9_large.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://www.bursamuze.com/uploads/2017/10/kent-muzesi-9_large.jpg"
             }
         ]
         },
@@ -199,7 +199,7 @@
                 "muzeWebSite": "http://www.bursakentmuzesi.com",
                 "sehir": "Bursa",
                 "ilce": "Osmangazi",
-                "muzekart":"yok","bresim": "https://www.bursamuze.com/uploads/2017/10/kent-muzesi-9_large.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://www.bursamuze.com/uploads/2017/10/kent-muzesi-9_large.jpg"
             },
             {
                 "muzeAd": "Baksı Müzesi",
@@ -218,7 +218,7 @@
                 "muzeWebSite": "http://baksi.org",
                 "sehir": "Bayburt",
                 "ilce": "Gökçebey",
-                "muzekart":"yok","bresim": "https://i4.hurimg.com/i/hurriyet/75/750x422/57357efb18c7732e687f8df1.jpg"
+                "catagory": " " ,  "muzekart":"yok","bresim": "https://i4.hurimg.com/i/hurriyet/75/750x422/57357efb18c7732e687f8df1.jpg"
             },
             {
                 "muzeAd": "İstanbul Arkeoloji Müzesi",
@@ -237,7 +237,7 @@
                 "muzeWebSite": "www.istanbularkeoloji.gov.tr",
                 "sehir": "İstanbul",
                 "ilce": "Fatih",
-                "muzekart":"var","bresim": "https://muze.gov.tr/s3/SectionPicture/SP_e75c08c5-32be-419b-9e5d-fcce4b6fdd72.jpg"
+                "catagory": " " ,  "muzekart":"var","bresim": "https://muze.gov.tr/s3/SectionPicture/SP_e75c08c5-32be-419b-9e5d-fcce4b6fdd72.jpg"
             }
         ]
     }
